@@ -15,55 +15,33 @@ The database  should contain two tables :
 
 ![image](readmeimg/database.png)
 
+  Add the admin row to the users table :
+  ![image](readmeimg/admin.png)
+  
+  ### *Project architecture* :
+  ![image](readmeimg/architecture.png)
+
 ## Overview
 ### *Home page*
-![image](images/home%20page.jpg)
-![image](images/our%20specialities.jpg)
-![image](images/our%20customers%20favorites.jpg)
-![image](images/footer.jpg)
-
-### *Gallery page*
-![image](images/gallery.jpg)
-
-### *About page*
-![image](images/about%20us.jpg)
-
-### *Chefs page*
-![image](images/chef%20list%20for%20client.jpg)
-
-### *Menu (All products)*
-![image](images/tous%20les%20produits.jpg)
-
-### *Menu of products per category*
-![image](images/produit%20par%20categorie%201.jpg)
-![image](images/produit%20par%20categorie%203.jpg)
-
-### *Empty Cart page*
-![image](images/empty%20cart.jpg)
+![image](readmeimg/home1.png)
+![image](readmeimg/home2.png)
+![image](readmeimg/home3.png)
+![image](readmeimg/home4.png)
+![image](readmeimg/home5.png)
+![image](readmeimg/home6.png)
+![image](readmeimg/home7.png)
 
 ### *Register page*
-![image](images/register%20form.jpg)
+![image](readmeimg/register.png)
 
 ### *Login page*
-![image](images/login%20form.jpg)
+![image](readmeimg/login.png)
 
 ## Admin
+![image](readmeimg/loginadmin.png)
+
 ### *All products list page*
-![image](images/products%20lists.jpg)
-I know the dashboard design is a mess :). I still need to fix it.
+![image](readmeimg/dashboard.png)
 
-### *Chefs list page*
-![image](images/chef%20list.jpg)
-
-### *Gallery list page*
-![image](images/dashboard%20list.jpg)
-
-### *Adding a new cake page (product)*
-![image](images/adding%20a%20new%20cake%20before.jpg)
-![image](images/adding%20a%20new%20cake.jpg)
-
-### *Adding a new category page*
-![image](images/adding%20a%20new%20category.jpg)
-
-### *Adding a new chef page*
-![image](images/adding%20a%20new%20chef.jpg)
+### *Update a member's page*
+![image](readmeimg/update.png)
