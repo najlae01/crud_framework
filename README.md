@@ -9,8 +9,9 @@ The following tutorial shows how to set up Xampp and php : https://www.geeksforg
 
 Once you started the Apache Web Server and MySQL on XAMPP, open phpmyAdmin the administration tool for Mysql : http://localhost/phpmyadmin/ and create a database named "etudiant".
 The database  should contain two tables :
-•	A table named 'etudiant', that has 5 columns; id_etudiant, nom, prenom, age and cne.
-•	Second table 'users', that has 4 columns; id, username, email, and passwd.
+A table named 'etudiant', that has 5 columns; id_etudiant, nom, prenom, age and cne.
+Second table 'users', that has 4 columns; id, username, email, and passwd.
+
 ![image](readmeimg/database.png)
 
 ## Overview
