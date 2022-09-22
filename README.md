@@ -1,7 +1,5 @@
 # CRUD Framework
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
-
 ## How to run the project
 
 To run the project, you need the following tools on your local machine: Web Server (e.g., Apache), PHP (Interpreter).
@@ -23,25 +21,25 @@ The database  should contain two tables :
 
 ## Overview
 ### *Home page*
-![image](readmeimg/home1.png)
-![image](readmeimg/home2.png)
-![image](readmeimg/home3.png)
-![image](readmeimg/home4.png)
-![image](readmeimg/home5.png)
-![image](readmeimg/home6.png)
-![image](readmeimg/home7.png)
+![image](readmeimg/home1.PNG)
+![image](readmeimg/home2.PNG)
+![image](readmeimg/home3.PNG)
+![image](readmeimg/home4.PNG)
+![image](readmeimg/home5.PNG)
+![image](readmeimg/home6.PNG)
+![image](readmeimg/home7.PNG)
 
 ### *Register page*
-![image](readmeimg/register.png)
+![image](readmeimg/register.PNG)
 
 ### *Login page*
-![image](readmeimg/login.png)
+![image](readmeimg/login.PNG)
 
 ## Admin
-![image](readmeimg/loginadmin.png)
+![image](readmeimg/loginadmin.PNG)
 
-### *All products list page*
-![image](readmeimg/dashboard.png)
+### *Admin Dashboard*
+![image](readmeimg/dashboard.PNG)
 
 ### *Update a member's page*
-![image](readmeimg/update.png)
+![image](readmeimg/update.PNG)
