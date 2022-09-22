@@ -16,6 +16,11 @@ The database  should contain two tables :
   Add the admin row to the users table :
   ![image](readmeimg/admin.png)
   
+  And lastly you need to make sure that the project folder is located under the XAMPP/htdocs folder on your local machine.
+  Paste the following url in your browser and the project should run : http://localhost/framework_crud/index.php
+  
+  ![image](readmeimg/admin.png)
+  
   ### *Project architecture* :
   ![image](readmeimg/architecture.png)
 
@@ -28,6 +33,9 @@ The database  should contain two tables :
 ![image](readmeimg/home5.PNG)
 ![image](readmeimg/home6.PNG)
 ![image](readmeimg/home7.PNG)
+
+### *Adding a student's page (Registering as a member)*
+![image](readmeimg/addetudiant.PNG)
 
 ### *Register page*
 ![image](readmeimg/register.PNG)
