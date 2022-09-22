@@ -19,8 +19,6 @@ The database  should contain two tables :
   And lastly you need to make sure that the project folder is located under the XAMPP/htdocs folder on your local machine.
   Paste the following url in your browser and the project should run : http://localhost/framework_crud/index.php
   
-  ![image](readmeimg/admin.png)
-  
   ### *Project architecture* :
   ![image](readmeimg/architecture.png)
 
