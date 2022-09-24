@@ -1,5 +1,7 @@
 # CRUD Framework
 
+Leave a star if you find it useful please :)
+
 ## How to run the project
 
 To run the project, you need the following tools on your local machine: Web Server (e.g., Apache), PHP (Interpreter).
