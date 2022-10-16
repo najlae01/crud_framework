@@ -5,6 +5,7 @@ Leave a star if you find it useful please :)
 ## How to run the project
 
 To run the project, you need the following tools on your local machine: Web Server (e.g., Apache), PHP (Interpreter).
+
   The following tutorial shows how to set up Xampp and php : https://www.geeksforgeeks.org/how-to-run-php-programs
 
 Once you started the Apache Web Server and MySQL on XAMPP, open phpmyAdmin the administration tool for Mysql : http://localhost/phpmyadmin/ and create a database named "etudiant".
